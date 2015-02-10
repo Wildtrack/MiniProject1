@@ -1,6 +1,5 @@
 Mini Project 1
 ==============
-
 Write a "single-page app" and develop its configuration management.
 
 **Goal**: Gain experience with the following technologies:
